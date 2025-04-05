@@ -1,7 +1,7 @@
 # Master Thesis: Machine Learning for Lung Cancer Classification
 
 ## Overview
-This repository contains the master thesis titled **"Machine Learning Techniques for Cancer Diagnosis Assistance"**, authored by **Babih Velázquez De Burnay** as part of the Master's program at **Universidad de A Coruña (UDC)**. The thesis explores the use of machine learning techniques for the early detection of non-small cell lung cancer (NSCLC) using RNA-Seq data from Tumor-Educated Platelets (TEPs).
+This repository contains my master's thesis, titled **"Machine Learning Techniques for Cancer Diagnosis Assistance"**, as part of the Master's program at **Universidad de A Coruña (UDC)**. The thesis explores the use of machine learning techniques for the early detection of non-small cell lung cancer (NSCLC) using RNA-Seq data from Tumor-Educated Platelets (TEPs).
 
 ---
 
